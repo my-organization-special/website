@@ -2,6 +2,4 @@
 
 This is a great website
 
-Now updating on update-readme branch.
-
-Update locally
+Update made on master on Github before Rebase
